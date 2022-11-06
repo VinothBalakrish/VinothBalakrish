@@ -37,18 +37,18 @@
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/vinzvinci/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/vinzvinci"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vinzvinci/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://dev.to/vinzvinci//"><img alt="dev.to" title="My Dev Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://www.instagram.com/VinothBalakrishna/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/VinothBalakrishna"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vinothbalakrishna/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://dev.to/vinothbalakrishna//"><img alt="dev.to" title="My Dev Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
-<p align="center">Nominate me as <a href="https://stars.github.com/nominate/">GitHub Star⭐</a> by typing my username: <strong>vinzvinci</strong></p>
+<p align="center">Nominate me as <a href="https://stars.github.com/nominate/">GitHub Star⭐</a> by typing my username: <strong>vinothbalakrishna</strong></p>
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 <h2 align="center">Hey there :wave:</h2>
 <p align="center">
-    My name is Vincent Villafuerte also known as <strong>vinzvinci</strong>. I'm trying to bring more folks here in GitHub :octocat: and use it to record their tech journey and bring their friends to collaborate with some projects 🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://twitter.com/vinzvinci">Twitter</a>. 
+    My name is VinothBalakrishna . I'm trying to bring more folks here in GitHub :octocat: and use it to record their tech journey and bring their friends to collaborate with some projects 🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinoth-balakrishna/">LinkedIn</a> or <a href="https://twitter.com/vinothbalakrishna">Twitter</a>. 
 </p>
 
 <hr />
@@ -56,7 +56,7 @@
 <h2 align="center">Current Roles</h2>
 <table>
   <tr>
-    <th><a href="https://githubcampus.expert/vinzvinci/"><img src="https://img.shields.io/badge/GitHub Field Expert 🚩-800080?style=for-the-badge&logo=github&logoColor=white" width="350px" height="30px"></a></th>
+    <th><a href="https://githubcampus.expert/vinothBalakrishna/"><img src="https://img.shields.io/badge/GitHub Field Expert 🚩-800080?style=for-the-badge&logo=github&logoColor=white" width="350px" height="30px"></a></th>
     <th><a href="https://github.com/dev-protocol"><img src="https://custom-icon-badges.herokuapp.com/badge/Program Manager-black.svg?logo=devprtcl" height="34px"></a></th>
     <th><a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white" height="30px"></a></th>
   </tr>
@@ -95,7 +95,7 @@
       </table>
     </td>
     <td align="center">
-      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=vinzvinci&count_private=true&theme=radical&show_icons=true" />
+      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=vinothBalakrishna&count_private=true&theme=radical&show_icons=true" />
     </td>
   </tr>
   <tr>
@@ -125,7 +125,7 @@
 </details>
 
 <details><summary>Moving my Blog ✨</summary><br>
-    - <a href="https://dev.to/vinzvinci/helping-you-to-build-your-personal-brand-in-tech-35df">Helping you to build your Personal Brand in Tech</a><br>
+    - <a href="https://dev.to/vinothBalakrishna/helping-you-to-build-your-personal-brand-in-tech-35df">Helping you to build your Personal Brand in Tech</a><br>
     - <a href="https://dev.to/devprotocol/helping-your-favorite-open-source-project-with-stakes-social-dc8">Helping your favorite Open Source Project with Stakes.social</a><br>
     - <a href="https://dev.to/webxdao/introducing-web-3-community-3co5">Introducing Web3 Community</a>
 </details>
