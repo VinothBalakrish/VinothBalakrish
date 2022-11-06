@@ -26,7 +26,8 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoshace.com%2Fweb-developer-portfolio-the-definitive-2019-guide-with-15-portfolio-examples%2F&psig=AOvVaw3rf_1pfk-RxNg5MTSoUGxJ&ust=1667789284131000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIiVkLHFmPsCFQAAAAAdAAAAABAY>
+<img align="center" src="![Uploading istockphoto-517188688-612x612.jpg…]()">
+
 
 <p align="center">
 :octocat:<a href="https://github.com/VinothBalakrishna/code-with-me"><img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github"></a>:octocat:
