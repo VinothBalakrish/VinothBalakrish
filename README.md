@@ -26,7 +26,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-<img align="center" src="![Uploading istockphoto-517188688-612x612.jpg…]()">
 
 
 <p align="center">
