@@ -1,4 +1,4 @@
-#<h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h1>
+<h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h1>
  
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
