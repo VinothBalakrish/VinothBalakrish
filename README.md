@@ -1,5 +1,8 @@
 
-<h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h1>
+#<h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI+THERE!+;WELCOME+TO+MY+GITHUB+PROFILE+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
