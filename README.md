@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20FOR%20THE%20WIN!;Join%20EddieHub%20Community;Collaboration%201st,%20Code%202nd.;Community%20make%20things%20easier;You%20don't%20have%20to%20be%20an%20expert%20to%20teach;Let's%20support%20each%20other;&center=true&width=470&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20FOR%20THE%20WIN!;Join%20EddieHub%20Community;Collaboration%201st,%20Code%202nd.;Community%20make%20things%20easier;You%20don't%20have%20to%20be%20an%20expert%20to%20teach;Let's%20support%20each%20other;&center=true&width=470&height=45">
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
  
 <h2 align="center">Hey there :wave:</h2>
 <p align="center">
-    My name is VinothBalakrishna . I'm trying to bring more folks here in GitHub :octocat: and use it to record their tech journey and bring their friends to collaborate with some projects 🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinoth-balakrishna/">LinkedIn</a> or <a href="https://twitter.com/vinothbalakrishna">Twitter</a>. 
+    My name is Vinoth Balakrishnan. I'm trying to bring more folks here in GitHub :octocat: and use it to record their tech journey and bring their friends to collaborate on some projects 🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinoth-balakrishna/">LinkedIn</a> or <a href="https://twitter.com/vinothbalakrishna">Twitter</a>. 
 </p>
 
 <hr />
@@ -62,7 +62,7 @@
   </tr>
   <table>
   <tr>
-    <td align="center">These roles make me more motivated to continue what I love and help more people in different communities. These roles are also the reasons why I choose Developer Relations field. <hr>Find your campus expert: <a href="https://githubcampus.expert/experts">https://githubcampus.expert/experts</a></td>
+    <td align="center">These roles make me more motivated to continue what I love and help more people in different communities. These roles are also the reasons why I choose the Developer Relations field. <hr>Find your campus expert: <a href="https://githubcampus.expert/experts">https://githubcampus.expert/experts</a></td>
   </tr>
   </table>
 </table>
@@ -90,46 +90,4 @@
             <a href="https://github.com/EddieHubCommunity">
               <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
             </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="center">
-      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=vinothBalakrishna&count_private=true&theme=radical&show_icons=true" />
-    </td>
-  </tr>
-  <tr>
-          <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzvinci&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
-          </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzvinci&theme=radical">
-    </td>
-  </tr>
-</table>
-
-<details><summary>Shout out and thank you to these awesome people 🏆</summary>
-    - <a href="https://github.com/eddiejaoude">Eddie Jaoude</a><br /> 
-    - <a href="https://github.com/nhcarrigan">Nicholas Carrigan</a><br />
-    - <a href="https://github.com/DenverCoder1">Jonah Lawrence</a><br />
-    - <a href="https://github.com/juanpflores">Juan Pablo Flores</a><br />
-    - <a href="https://twitter.com/iampablo?lang=en">Pablo Veramendi</a>
-</details>
-
-<details><summary>Top 5 Community Discussions 🥇:octocat:</summary>
-    - 1. <a href="https://github.com/EddieHubCommunity/support/discussions/1779">EddieHub Open Source Ambassador</a><br /> 
-    - 2. <a href="https://github.com/EddieHubCommunity/support/discussions/1710">EddieHub Modules</a><br /> 
-    - 3. <a href="https://github.com/EddieHubCommunity/support/discussions/780">EddieHub Open Source SWAG</a><br /> 
-    - 4. <a href="https://github.com/EddieHubCommunity/support/discussions/604s">EddieHub Events Calendar</a><br /> 
-    - 5. <a href="https://github.com/EddieHubCommunity/support/discussions/854">All about hackathon</a>
-</details>
-
-<details><summary>Moving my Blog ✨</summary><br>
-    - <a href="https://dev.to/vinothBalakrishna/helping-you-to-build-your-personal-brand-in-tech-35df">Helping you to build your Personal Brand in Tech</a><br>
-    - <a href="https://dev.to/devprotocol/helping-your-favorite-open-source-project-with-stakes-social-dc8">Helping your favorite Open Source Project with Stakes.social</a><br>
-    - <a href="https://dev.to/webxdao/introducing-web-3-community-3co5">Introducing Web3 Community</a>
-</details>
-
-<details><summary>Currently Planning Event✨</summary><br>
-    <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a> at my Campus 
-</details> 
+          </
